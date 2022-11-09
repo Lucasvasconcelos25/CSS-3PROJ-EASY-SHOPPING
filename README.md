@@ -13,3 +13,5 @@
    <br>
    <h2>Confira o resultado desse projeto abaixo:
     <img src="https://github.com/Lucasvasconcelos25/Easy-Shopping/blob/master/assets/desktop.png?raw=true">
+     <br>
+     <img src="https://github.com/Lucasvasconcelos25/Easy-Shopping/blob/master/assets/mobile.png?raw=true">
